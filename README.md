@@ -1,4 +1,4 @@
-### Oie! Eu sou Amanda, Estudante de Programação e Tecnologia! ✨
+## Oie! Eu sou Amanda, estudante de programação e tecnologia! ✨
 
 <hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 <div style="display: inline_block"><br>
