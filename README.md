@@ -3,7 +3,7 @@
 <hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 <div style="display: inline_block"><br>
 👩🏽‍💻 - Estudante de Engenharia de Software na UTFPR <br>
-📖 - Em aprimoramento no desenvolvimento Back-end
+📖 - Estudando Java e Spring Boot
 </div>
 
 <div style="display: inline_block"><br>
