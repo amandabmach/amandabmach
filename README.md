@@ -1,7 +1,6 @@
 ## Oie! Eu sou Amanda, estudante de programação e tecnologia! ✨
 
 <hr>
-<img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 <div style="display: inline_block"><br>
   📖 - Cursando Engenharia de Software na UTFPR<br>
   👩🏽‍💻 - Desenvolvedora Full Stack
